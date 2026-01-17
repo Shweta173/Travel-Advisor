@@ -31,7 +31,10 @@ This project demonstrates frontend development skills, API integration, state ma
 ---
 
 ## 📷 Screenshots
-*(You can add screenshots here later for extra impact)*
+![Uploading Screenshot 2026-01-18 013745.png…]()
+![Uploading Screenshot 2026-01-18 013830.png…]()
+
+
 
 ---
 
